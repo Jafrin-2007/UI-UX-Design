@@ -4,11 +4,12 @@ Idea Hub is an AI-powered platform that helps users capture, organize, validate,
 
 ---
 🎯 Objectives
-Design an intuitive travel planning application.
-Improve the overall user experience.
-Create responsive and visually consistent interfaces.
-Develop an interactive prototype using Figma.
-Apply UI/UX design principles and design thinking.
+
+.Design an intuitive travel planning application.
+.Improve the overall user experience.
+.Create responsive and visually consistent interfaces.
+.Develop an interactive prototype using Figma.
+.Apply UI/UX design principles and design thinking.
 
 ---
 
@@ -31,39 +32,24 @@ Apply UI/UX design principles and design thinking.
 ---
 🛠️ Tools Used
 
-Figma
-FigJam
-Canva
-Google Fonts
-Material Icons
+.Figma
+.FigJam
+.Canva
+.Google Fonts
+.Material Icons
 
 ---
-
 🎨 Design Process
 
-User Research
-Competitor Analysis
-User Persona
-User Flow
-Information Architecture
-Low-Fidelity Wireframes
-High-Fidelity UI Design
-Interactive Prototype
-Design Review & Iteration
-
----
-
-🎨 Design Process
-
-User Research
-Competitor Analysis
-User Persona
-User Flow
-Information Architecture
-Low-Fidelity Wireframes
-High-Fidelity UI Design
-Interactive Prototype
-Design Review & Iteration
+1.User Research
+2.Competitor Analysis
+3.User Persona
+4.User Flow
+5.Information Architecture
+6.Low-Fidelity Wireframes
+7.High-Fidelity UI Design
+8.Interactive Prototype
+9.Design Review & Iteration
 
 ---
 
@@ -86,13 +72,13 @@ Design Review & Iteration
 
 🎯 Key UI/UX Principles
 
-User-Centered Design
-Visual Hierarchy
-Accessibility
-Consistency
-Responsive Design
-Minimalist Interface
-Easy Navigation
+.User-Centered Design
+.Visual Hierarchy
+.Accessibility
+.Consistency
+.Responsive Design
+.Minimalist Interface
+.Easy Navigation
 
 ---
 
@@ -100,7 +86,10 @@ Easy Navigation
 
 🔗 Figma Prototype: https://www.figma.com/design/VGM7IkPx0RJOzrPrVbWc5T/figma-fundamentals?node-id=103-3019&t=goIorf2F2Spdge8t-1
 
+---
+
 📂 Project Structure
+
 Idea Hub-UIUX/
 │
 ├── README.md
@@ -109,6 +98,8 @@ Idea Hub-UIUX/
 ├── Prototype/
 ├── Design-System/
 └── Assets/
+
+---
 
 📸 Screenshots
 
@@ -129,18 +120,19 @@ Add screenshots of:
 📚 What I Learned
 During this project, I learned:
 
-User Research
-Competitor Analysis
-Design Thinking
-Wireframing
-Auto Layout
-Components & Variants
-Design Systems
-Interactive Prototyping
-Responsive UI Design
-Collaboration using Figma
+.User Research
+.Competitor Analysis
+.Design Thinking
+.Wireframing
+.Auto Layout
+.Components & Variants
+.Design System
+.Interactive Prototyping
+.Responsive UI Design
+.Collaboration using Figma
+
 ---
- 🔮 Future Improvements
+🔮 Future Improvements
 
 - 🤖 AI-powered Idea Recommendations
 - 👥 AI-based Team Member Matching
@@ -155,8 +147,8 @@ Collaboration using Figma
 - 🔒 Two-Factor Authentication (2FA)
 - 📈 Idea Performance Dashboard
 
-  👩‍💻 Author
-  Jafrin V
+👩‍💻 Author
+   Jafrin V
 
 B.Tech – Artificial Intelligence & Data Science
 
